@@ -1,0 +1,5 @@
+{
+  "name": "AI Resume Generator",
+  "description": "Create a professional and creative resume in minutes. This application uses AI to help you craft the perfect summary and job descriptions, and offers multiple templates to choose from. You can save your final resume as a PDF or Word document.",
+  "requestFramePermissions": []
+}
